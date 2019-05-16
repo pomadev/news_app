@@ -1,2 +1,2 @@
 # news_app
-Netlify deploy practice
+axios api practice
